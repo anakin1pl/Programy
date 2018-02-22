@@ -1,1 +1,2 @@
-# Programy w C++ z zajęć 
+# Programy w C++ z zajęć
+Marcin Pawlukiewicz
